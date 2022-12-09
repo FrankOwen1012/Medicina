@@ -1,0 +1,72 @@
+{
+  "Medicinas": [
+    {
+      "id": 1,
+      "NombreEmpresa": "Bayern",
+      "NombreMedicina": "Paracetamol",
+      "NombreCompuesto": "Toban",
+      "PrecioUnitario": "13",
+	  "PrecioCaja": "13",
+    "imagen":"https://cdn.akamai.steamstatic.com/steam/apps/500/0000006031.1920x1080.jpg?t=1623087651"
+    },
+    {
+      "id": 2,
+      "NombreEmpresa": "Bayern",
+      "NombreMedicina": "Paracetamol",
+      "NombreCompuesto": "alivia",
+	  "PrecioUnitario": "13",
+	  "PrecioCaja": "13",
+    "imagen":"https://fervilela.com/wp-content/uploads/2021/01/left-4-dead-2-2079013.jpg"
+    },
+    {
+      "id": 3,
+      "NombreEmpresa": "Bayern",
+      "NombreMedicina": "BISMUTOL",
+      "NombreCompuesto": "LLAVE",
+	  "PrecioUnitario": "13",
+	  "PrecioCaja": "13",
+    "imagen":"https://midu.dev/images/tags/node.png"
+    },
+    {
+      "id": 4,
+      "NombreEmpresa": "Bayern",
+      "NombreMedicina": "dsad",
+      "NombreCompuesto": "sadsa",
+	  "PrecioUnitario": "13",
+	  "PrecioCaja": "13",
+    "imagen":"https://midu.dev/images/tags/node.png"
+
+    },
+    {
+      "id": 5,
+      "NombreEmpresa": "Bayern",
+      "NombreMedicina": "dasd",
+      "NombreCompuesto": "sadasd",
+	  "PrecioUnitario": "13",
+	  "PrecioCaja": "13",
+    "imagen":"https://midu.dev/images/tags/node.png"
+    
+    },
+    {
+      "id": 6,
+      "NombreEmpresa": "DSAD",
+      "NombreMedicina": "DASD",
+      "NombreCompuesto": "DASD",
+	  "PrecioUnitario": "13",
+	  "PrecioCaja": "13",
+    "imagen":"https://fervilela.com/wp-content/uploads/2021/01/left-4-dead-2-2079013.jpg"
+  
+    }
+    ,
+    {
+      "id": 7,
+      "NombreEmpresa": "DSAD",
+      "NombreMedicina": "DASD",
+      "NombreCompuesto": "DASD",
+	  "PrecioUnitario": "13",
+	  "PrecioCaja": "13"
+    }
+   
+  ],
+ "cart":[]
+}

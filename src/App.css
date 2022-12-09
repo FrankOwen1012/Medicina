@@ -27,6 +27,20 @@
 .App-link {
   color: #61dafb;
 }
+/** AQUI MODIFICACMO CON GRID PARA MOSTRAR LA TABLA Y LA IMAGEN */
+.Contenedor-Tienda-Tablas{
+    display: grid;
+    grid-template-columns: repeat(2,80% 20%);
+   
+}
+.Contenedor-Tienda-Tablas a{
+  text-decoration: none;
+
+}
+.ImprimeImagenesReferencia {
+  padding-top: 28vh;
+}
+
 
 @keyframes App-logo-spin {
   from {

@@ -1,0 +1,70 @@
+{
+  "Usuarios": [
+    {
+      "id": 1,
+      "Nombres": "Juanito",
+      "Apellidos": "GOMEZ",
+      "Correo": "juanito @ hotmail.com",
+      "Password": "123456789",
+      "RUC": 132456789
+    },
+    {
+      "id": 2,
+      "Nombres": "Juanito",
+      "Apellidos": "GOMEZ",
+      "Correo": "juanito @ hotmail.com",
+      "Password": "123456789",
+      "RUC": 132456789
+    },
+    {
+      "id": 3,
+      "Nombres": "Juanito",
+      "Apellidos": "GOMEZ",
+      "Correo": "juanito @ hotmail.com",
+      "Password": "123456789",
+      "RUC": 132456789
+    },
+    {
+      "id": 4,
+      "Nombres": "Juanito",
+      "Apellidos": "Mercedez",
+      "Correo": "Francheco1012@hotmail.com",
+      "Password": "12345",
+      "RUC": "123456789"
+    },
+    {
+      "id": 5,
+      "Nombres": "Lorenzo",
+      "Apellidos": "Martinez",
+      "Correo": "dasdsa",
+      "Password": "123456",
+      "RUC": "745981554"
+    },
+    {
+      "id": 6,
+      "Nombres": "frank",
+      "Apellidos": "manani feuntes",
+      "Correo": "fsasda@hotmail.com",
+      "Password": "xxxxxxxxxxxxxxxxxxxxx",
+      "RUC": "12345678789"
+    },
+    {
+      "id": 7
+    },
+    {
+      "id": 8
+    },
+    {
+      "id": 9
+    },
+    {
+      "id": 10
+    },
+    {
+      "id": 11
+    },
+    {
+      "id": 12
+    }
+  ]
+}

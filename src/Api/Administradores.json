@@ -1,0 +1,8 @@
+{
+    "Administradores" :[
+        {
+            "Username":"Admin",
+            "Password" :"abc123xyz" 
+        }
+    ]
+}

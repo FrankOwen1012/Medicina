@@ -1,0 +1,8 @@
+
+.body404 img{
+    
+   object-fit: cover;
+   object-position: 50% 50%;
+   min-height: 100vh;
+  max-width: 100vw;
+}

@@ -1,0 +1,26 @@
+{
+    "Pedidos":[
+        {
+            "id": 1,
+            "NombreCliente": "JUAN PEREZ",
+            "Apellido": "PEREZ",
+            "Producto":"Paracetamol",
+            "fecha" :"25/12/2022"
+        },
+   
+        {
+            "id": 2,
+            "NombreCliente": "JUAN PEREZ",
+            "Apellido": "PEREZ",
+            "Producto":"Paracetamol",
+            "fecha" :"25/11/2022"
+        },
+        {
+            "id": 3,
+            "NombreCliente": "JUAN PEREZ",
+            "Apellido": "PEREZ",
+            "Producto":"Paracetamol",
+            "fecha" :"25/3/2022"
+        }
+    ]
+}
